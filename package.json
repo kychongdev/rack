@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-aria-components": "^1.0.0",
+    "react-stately": "^3.29.0"
+  }
+}
